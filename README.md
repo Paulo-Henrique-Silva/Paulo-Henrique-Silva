@@ -1,5 +1,3 @@
-# Quem sou eu?
- - Olá! Sou Paulo Henrique da Silva e atualmente estou estudando ADS na Fatec Guarulhos.
- 
-# Outras Redes
-- Linkedin: https://www.linkedin.com/in/paulo-henrique-388880207/
+Sou formado pelo IFSP-Guarulhos em técnico em mecatrônica integrado ao ensino médio e faço análise e desenvolvimento de sistemas na Fatec guarulhos. 
+
+Possuo conhecimentos nas linguagens de programação Java (Springboot) e C# (ASP.NET), além de competências em web design utilizando Figma, HTML, CSS (Boostrap) e Javascript.
