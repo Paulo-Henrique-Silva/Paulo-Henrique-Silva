@@ -6,7 +6,7 @@ Formado pelo IFSP-Guarulhos em técnico em mecatrônica integrado ao ensino méd
 
 <div>
   <a href="https://github.com/paulo-henrique-silva/github-readme-stats"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-henrique-silva&show_icons=false&theme=codeSTACKr" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-henrique-silva&show_icons=true&theme=codeSTACKr" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-henrique-silva&layout=compact&theme=codeSTACKr" />
 </div>
 
