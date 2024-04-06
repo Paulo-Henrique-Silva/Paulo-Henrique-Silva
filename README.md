@@ -1,6 +1,6 @@
 # Paulo Henrique da Silva
 
-- Desenvolvedor Back-end
+- Desenvolvedor de Software
 - Cursando Análise e desenvolvimento de sistemas na FATEC Guarulhos
 - Formado em mecatrônica pelo IFSP - Guarulhos
 
