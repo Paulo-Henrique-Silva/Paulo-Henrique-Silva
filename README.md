@@ -1,7 +1,7 @@
 # Paulo Henrique da Silva
 
-- Desenvolvedor de Software
-- Cursando Análise e desenvolvimento de sistemas na FATEC Guarulhos
+- Analistas de Sistemas
+- Formado em Análise e desenvolvimento de sistemas na FATEC Guarulhos
 - Formado em mecatrônica pelo IFSP - Guarulhos
 
 ##
