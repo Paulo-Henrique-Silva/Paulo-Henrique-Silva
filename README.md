@@ -1,6 +1,6 @@
 # Paulo Henrique da Silva
 
-- Analistas de Sistemas
+- Analista de Sistemas
 - Formado em Análise e desenvolvimento de sistemas na FATEC Guarulhos
 - Formado em mecatrônica pelo IFSP - Guarulhos
 
